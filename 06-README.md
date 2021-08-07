@@ -12,4 +12,8 @@ hello *italic world
 
 [make me a link](https://www.hackyourfuture.net/)
 
+`this is {
+    my code;
+}`
+
 
