@@ -3,5 +3,3 @@
 ## This is my H2 title!
 
 ### This is my H3 title!
-
-put a '*' for *italic fonts
