@@ -103,7 +103,7 @@ ___
 | Name   | Email                    |
 |--------|--------------------------|
 | Caglar | caglar.kaya@gmail.com    |
-| Fatma  | fatmamuallakul@gmail.com |
+| Omer   | omer.kaya@gmail.com      |
 
 ---
 
