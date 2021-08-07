@@ -7,3 +7,5 @@
 hello **bold** world
 
 hello ~~delete~~ world
+
+hello *italic world
