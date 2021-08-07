@@ -6,6 +6,10 @@
 
 hello **bold** world
 
-hello ~~delete~~ world
+hello ~~delete.~~ world
 
 hello *italic world
+
+[make me a link](https://www.hackyourfuture.net/)
+
+
