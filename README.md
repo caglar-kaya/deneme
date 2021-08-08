@@ -114,3 +114,23 @@ ___
 
 ---
 
+<!-- Line Breaks -->
+Hello!
+
+Hello!
+--
+
+Hello!
+Hello!
+
+Hello!
+
+<!-- Youtube Videos -->
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6AX3XTn4FV4VgbZ07deAoSB_KmmuPYMXTHw&usqp=CAU" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+---
+
+
