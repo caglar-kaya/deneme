@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background: honeydew;
+}
+
+h1 {
+  color: crimson;
+}
+
+p {
+  color: darkorange;
+}
+
+img {
+  width: 200px;
+}
